@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WordCounterInZIo.iml" filepath="$PROJECT_DIR$/.idea/modules/WordCounterInZIo.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/WordCounterInZIo-build.iml" filepath="$PROJECT_DIR$/.idea/modules/WordCounterInZIo-build.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/WordCounterWithZIo.iml" filepath="$PROJECT_DIR$/.idea/modules/WordCounterWithZIo.iml" />
     </modules>
   </component>
 </project>
